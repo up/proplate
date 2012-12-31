@@ -7,7 +7,7 @@ module.exports = function (grunt) {
   var     
     js = {
       modules : [
-        "src/banner.tmpl",
+        "src/banner.tpl",
         "src/javascripts/one.js",
         "src/javascripts/two.js"
       ],

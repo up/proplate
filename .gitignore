@@ -14,6 +14,3 @@ Thumbs.db
 
 # Build Tools
 compiler.jar
-
-*.compiled.js
-*.sourcemap.js
