@@ -1,0 +1,19 @@
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# TextMate Project Files
+*.tm*
+
+# Local Development (Files and Folders)
+# starting with an unterscore
+\_*
+
+# Server addons
+.htaccess
+
+# Build Tools
+compiler.jar
+
+*.compiled.js
+*.sourcemap.js
